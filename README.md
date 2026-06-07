@@ -1,3 +1,3 @@
-Nhấn qua phần Actions, để tải firmware nạp .urf2
+Corne split keyboard
 
 https://nickcoutsos.github.io/keymap-editor/
